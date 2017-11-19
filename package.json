@@ -1,0 +1,19 @@
+{
+  "name": "requireall",
+  "version": "1.0.0",
+  "description": "Tiny snippet that requires all files in a directory and exports them as a single project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jacksonStone/requireAll.git"
+  },
+  "author": "",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/jacksonStone/requireAll/issues"
+  },
+  "homepage": "https://github.com/jacksonStone/requireAll#readme"
+}
